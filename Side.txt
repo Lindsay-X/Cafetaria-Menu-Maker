@@ -1,0 +1,9 @@
+Fries: 0.75
+Potato Wedges: 1.00
+Mixed Vegetable Soup: 5.00
+Tomato Soup: 2.50
+Baby Carrots: 1.00
+Salad Bar: 5.50
+Broccoli Casserole: 4.70
+Zucchini: 2.20
+Mashed Butternut Squash: 2.25
