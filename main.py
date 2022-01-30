@@ -236,12 +236,12 @@ while(cmd == "s"):
 
 
 """ 
-Inputs:
+Test Input:
 -s
 -50
 
 - s
-- Rimuru Tempest
+- Rimuru
 - 969
 - 9
 - 1
@@ -250,7 +250,7 @@ Inputs:
 - 2
 
 - student
-- Mavis Vermillion
+- Mavis
 - 976
 - 12
 - 1
