@@ -1,2 +1,3 @@
 # Cafetaria-Menu-Maker
 This program helps create a menu for school lunches based on the given amount of money and the past menus. This program also checks if the buyer is from the school and calculates the amount they need to pay. The menu is split into 3 parts, main meal, side dish, and dessert. For each part, there are be 2 options for students and teachers to choose from each day. All the food sold by the cafeteria is stored in 3 files which are also split into main meal, side dish, and dessert. This will allow the food and prices to be easily changed. 
+The function for making the menu follows 2 rules. One, no meal or food should be served on consecutive days. Two, making the food should only decrease the budget to a certain amount and no less than that amount. 
